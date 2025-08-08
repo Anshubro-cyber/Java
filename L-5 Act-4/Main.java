@@ -2,7 +2,7 @@ class Main {
     int age;
 
     Main(int age) {
-        this.age = age; // Correctly assign parameter to instance variable
+        this.age = age;
     }
 
     public static void main(String[] args) {
