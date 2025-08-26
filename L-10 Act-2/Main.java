@@ -36,7 +36,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        System.out.println("Welcome to InterHiring Tool");
+        System.out.println("Welcome to InternHiring Tool");
 
         try {
             Candidate candidate = getCandidateDetails();
