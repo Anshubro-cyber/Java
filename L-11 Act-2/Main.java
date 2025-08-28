@@ -7,7 +7,7 @@ public class Main {
         ArrayList<Integer> numbers = new ArrayList<>();
         numbers.add(35);
         numbers.add(48);
-        // numbers.add(49);
+        numbers.add(49);
         numbers.add(18);
         numbers.add(13);
 
